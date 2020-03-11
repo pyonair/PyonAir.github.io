@@ -29,13 +29,13 @@ url: "https://pyonair.org" # the base hostname & protocol for your site, e.g. ht
 
 # Build settings
 
-theme: jekyll-theme-slate
+theme: minimal
 
 plugins:
   - jekyll-feed
   
 github:
-	repository_url: https://github.com/pyonair
+  repository_url: https://github.com/pyonair
 
 # Exclude from processing.
 # The following items will not be processed, by default.
