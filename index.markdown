@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: Home
 ---
-
 
 # Introduction
 
@@ -27,5 +27,3 @@ The aim of the PyonAir project is to deploy a network of low-cost, IoT pollution
 Our goals of simplicity and ease of use inspired our decision to use the Grove system as the backbone of our design. The wide range of compatible modules will allow users of our system to customise the PyonAir device to their needs, without being forced to redesign the fundamental hardware. Meanwhile, Pycom's LoPy4 offers multiple options for wireless communication in a single, neat package.
 
 ![](/assets/pyonair-box.PNG)
- 
-

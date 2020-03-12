@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About
-permalink: /about/
+title: Contact
+permalink: /contact/
 ---
 
-The [Pyonair](https://github.com/pyonair) project publishes everything where possible on GitHub. If you have changes feel free to send push requests. 
+The [Pyonair](https://github.com/pyonair) project publishes everything where possible on GitHub. If you have changes feel free to send push requests.
 Here are the key repositories:
 
 PyonAir source code for Pycom:  
@@ -18,11 +18,3 @@ PyonAir decoder for The Things Network:
 
 PyonAir PCB board design and layout:
 [https://github.com/pyonair/PyonAir-PCB](https://github.com/pyonair/PyonAir-PCB)
-
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
