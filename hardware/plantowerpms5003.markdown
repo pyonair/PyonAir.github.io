@@ -1,8 +1,6 @@
-
 ---
 layout: default
 
-#permalink: /hardware/
 ---
 
 # Plantower PMS5003
@@ -16,11 +14,11 @@ The PMS5003 sensor senses particulates of various sizes \(PM1 - PM10\) from sour
 | :--- | :--- |
 | UART | 5 V |
 
-![](/assets/pmsensors/pms5003_1-2.jpg)
+![](/assets/hardware/pmsensors/pms5003_1-2.jpg)
 
-{% hint style="info" %}
-The PMS5003 fan needs to be driven using 5V \(not 3.3V\).
-{% endhint %}
+
+__The PMS5003 fan needs to be driven using 5V \(not 3.3V\).__
+
 
 ## Current suppliers
 
