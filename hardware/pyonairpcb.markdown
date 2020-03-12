@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 
 ---
@@ -22,8 +19,8 @@ The PCB contains:
 * Micro SD slot
 * User button
 * Power input connectors \(Barrel, JST or screw terminal\)
-* [Voltage regulator](voltage-regulator.md)
+* [Voltage regulator](voltageregulator.markdown)
 
 You can view the schematic in the [Wiring section](../../../tutorial/wiring/) of our guide and [Eagle files](../../../extra-info/resources/pcb-files.md#eagle-files) are included in the Extra Info section.
 
-![](../../../.gitbook/assets/pcb-top-diagonal.jpg)
+![](/assets/hardware/pcb/pcb-top-diagonal.jpg)

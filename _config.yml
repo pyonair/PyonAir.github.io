@@ -42,6 +42,7 @@ plugins:
 github:
   repository_url: https://github.com/pyonair
 
+show_excerpts: true
 #collections:
   #posts:
     #output:  true

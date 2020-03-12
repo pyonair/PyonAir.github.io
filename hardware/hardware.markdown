@@ -4,7 +4,6 @@ title: Hardware
 #permalink: /hardware/
 ---
 # Hardware Overview
-title: Hardware
 For our device, we are using a Grove-based system. Grove connectors are 4-pin plug-and-play connectors, making them ideal for reducing time and errors from soldering, and making it easy to swap modules later.
 
 ![](/assets/lopy-diagram.PNG)
@@ -25,7 +24,7 @@ For our device, we are using a Grove-based system. Grove connectors are 4-pin pl
 | :--- | :--- |
 | [LoPy4](lopy4.markdown) | Main board |
 | [PyonAir PCB](pyonairpcb.markdown) | Easy connection to Grove compatible sensors |
-| [Plantower PMS5003](plantower-pms5003.md) | Air pollution sensor |
+| [Plantower PMS5003](plantowerpms5003.markdown) | Air pollution sensor |
 | [Sensirion SPS30](sensirion-sps30.md) | Air pollution sensor |
 | [SHT35 sensor](dht11-temperature-and-humidity-sensor.md) | Temperature & humidity sensor |
 | [Real Time Clock](ds3231-real-time-clock.md) | Backup clock unit |
