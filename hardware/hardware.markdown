@@ -25,7 +25,7 @@ For our device, we are using a Grove-based system. Grove connectors are 4-pin pl
 | [PyonAir PCB](pyonairpcb.markdown) | Easy connection to Grove compatible sensors |
 | [Plantower PMS5003](plantowerpms5003.markdown) | Air pollution sensor |
 | [Sensirion SPS30](sensirionsps30.markdown) | Air pollution sensor |
-| [SHT35 sensor](dht11-temperature-and-humidity-sensor.md) | Temperature & humidity sensor |
+| [SHT35 sensor](sht35.markdown) | Temperature & humidity sensor |
 | [Real Time Clock](ds3231-real-time-clock.md) | Backup clock unit |
 | [GPS module](gps-receiver-module.md) | GPS receiver for time & location |
 | [Pycom antenna](pycom-antenna.md) | LoRa capability |

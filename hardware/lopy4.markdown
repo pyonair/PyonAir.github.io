@@ -8,7 +8,7 @@ layout: default
 
 Pycom's LoPy4 development board offers 4 wireless communication modes: LoRa, Sigfox, WiFi & Bluetooth. The board is programmed using MicroPython and is compatible with any of the Pycom shields.
 
-[LoPy4 Datasheet (PDF) ]({{ site.url }}/assets/documents/pycom_002_specsheets_fipy_v2.pdf)
+[LoPy4 Datasheet (PDF) ](/assets/documents/pycom_002_specsheets_fipy_v2.pdf)
 
 ![](/assets/hardware/lopy/lopy4.jpg)
 
