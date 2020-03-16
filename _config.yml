@@ -43,6 +43,9 @@ github:
   repository_url: https://github.com/pyonair
 
 show_excerpts: true
+
+
+google_analytics: UA-160774959-1
 #collections:
   #posts:
     #output:  true
