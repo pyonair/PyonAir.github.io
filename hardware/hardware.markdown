@@ -26,9 +26,9 @@ For our device, we are using a Grove-based system. Grove connectors are 4-pin pl
 | [Plantower PMS5003](plantowerpms5003.markdown) | Air pollution sensor |
 | [Sensirion SPS30](sensirionsps30.markdown) | Air pollution sensor |
 | [SHT35 sensor](sht35.markdown) | Temperature & humidity sensor |
-| [Real Time Clock](ds3231-real-time-clock.md) | Backup clock unit |
-| [GPS module](gps-receiver-module.md) | GPS receiver for time & location |
-| [Pycom antenna](pycom-antenna.md) | LoRa capability |
-| [MicroSD card](cloudisk-8gb-microsd-card.md) | Data storage |
-| [Power supply](battery.md) | Primary power supply |
-| [Case](case.md) | Waterproof case |
+| [Real Time Clock](ds3231rtc.markdown) | Backup clock unit |
+| [GPS module](gps.markdown) | GPS receiver for time & location |
+| [Pycom antenna](pycomantenna.markdown) | LoRa capability |
+| [MicroSD card](microsd.markdown) | Data storage |
+| [Power supply](power.markdown) | Primary power supply |
+| [Case](enclosure.markdown) | Waterproof case |
