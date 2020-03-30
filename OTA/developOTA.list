@@ -1,46 +1,25 @@
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/.gitignore
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/LICENSE
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/README.md
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/Configuration.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/EventScheduler.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/GpsSIM28.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/LoRaWAN.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/LoggerFactory.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/OTA.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/PM_read.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/RingBuffer.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/RtcDS1307.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/SensorLogger.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/TempSHT35.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/UserButton.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/averages.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/config_page.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/helper.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/initialisation.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/loggingpycom/.gitignore
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/loggingpycom/LICENSE
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/loggingpycom/README.md
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/loggingpycom/__init__.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/loggingpycom/example/main.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/loggingpycom/handlers.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/micropyGPS.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/new_config.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/plantowerpycom/.gitignore
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/plantowerpycom/LICENSE
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/plantowerpycom/README.md
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/plantowerpycom/__init__.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/plantowerpycom/example/main.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/plantowerpycom/logging.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/plantowerpycom/plantower.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/.gitattributes
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/.gitignore
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/LICENSE
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/README.md
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/__init__.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/example/main.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/logging.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/sensirion.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/sensirion_error_codes.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/software_update.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/strings.py
-https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/main.py
+# {
+#    "delete": [
+#       "flash/old_file.py",
+#       "flash/other_old_file.py"
+#    ],
+#    "firmware": {
+#        "URL": "http://192.168.1.144:8000/firmware_1.0.1b.bin",
+#        "hash": "ccc6914a457eb4af8855ec02f6909316526bdd08"
+#    },
+#    "new": [
+#        {
+#            "URL": "http://192.168.1.144:8000/1.0.1b/flash/lib/new_lib.py",
+#            "dst_path": "flash/lib/new_lib.py",
+#            "hash": "1095df8213aac2983efd68dba9420c8efc9c7c4a"
+#        }
+#    ],
+#    "update": [
+#        {
+#            "URL": "http://192.168.1.144:8000/1.0.1b/flash/changed_file.py",
+#            "dst_path": "flash/changed_file.py",
+#            "hash": "1095df8213aac2983efd68dba9420c8efc9c7c4a"
+#        }
+#    ],
+#    "version": "1.0.1b"
+# }
