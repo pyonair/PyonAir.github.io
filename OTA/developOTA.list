@@ -10,14 +10,14 @@
     "new": [
         {
             "URL": "pyonair/PyonAir-pycom/develop/lib/sensirionpycom/README.md",
-            "dst_path": "flash/lib/new_lib.py",
+            "dst_path": "/flash/lib/new_lib.py",
             "hash": "1095df8213aac2983efd68dba9420c8efc9c7c4a"
         }
     ],
     "update": [
         {
             "URL": "http://192.168.1.144:8000/1.0.1b/flash/changed_file.py",
-            "dst_path": "flash/changed_file.py",
+            "dst_path": "/flash/changed_file.py",
             "hash": "1095df8213aac2983efd68dba9420c8efc9c7c4a"
         }
     ],
