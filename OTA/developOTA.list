@@ -4,12 +4,12 @@
        "flash/other_old_file.py"
     ],
     "firmware": {
-        "URL": "https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/README.md",
+        "URL": "pyonair/PyonAir-pycom/develop/lib/sensirionpycom/README.md",
         "hash": "ccc6914a457eb4af8855ec02f6909316526bdd08"
     },
     "new": [
         {
-            "URL": "http://192.168.1.144:8000/1.0.1b/flash/lib/new_lib.py",
+            "URL": "pyonair/PyonAir-pycom/develop/lib/sensirionpycom/README.md",
             "dst_path": "flash/lib/new_lib.py",
             "hash": "1095df8213aac2983efd68dba9420c8efc9c7c4a"
         }
