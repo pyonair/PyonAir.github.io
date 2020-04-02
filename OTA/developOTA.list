@@ -4,7 +4,7 @@
        "flash/other_old_file.py"
     ],
     "firmware": {
-        "URL": "http://192.168.1.144:8000/firmware_1.0.1b.bin",
+        "URL": "https://raw.githubusercontent.com/pyonair/PyonAir-pycom/develop/lib/sensirionpycom/README.md",
         "hash": "ccc6914a457eb4af8855ec02f6909316526bdd08"
     },
     "new": [
